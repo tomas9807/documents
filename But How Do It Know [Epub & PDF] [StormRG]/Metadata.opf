@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0fcaebe1-4fa9-42ba-898f-f3762710df07</dc:identifier>
+        <dc:title>But How Do It Know? - The Basic Principles of Computers for Everyone</dc:title>
+        <dc:creator opf:file-as="Scott, J Clark" opf:role="aut">Scott, J Clark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.42) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-04T00:00:00+00:00</dc:date>
+        <dc:publisher>John C Scott</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00F25LEVC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Scott, J Clark&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-06-01T07:35:23+00:00" name="calibre:timestamp"/>
+        <meta content="But How Do It Know? - The Basic Principles of Computers for Everyone" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="But How Do It Know_ - The Basic Principles of Computers for Everyone - Scott, J Clark.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
